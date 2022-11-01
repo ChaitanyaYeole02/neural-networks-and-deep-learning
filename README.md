@@ -6,7 +6,7 @@ Instructor: [Andrew Ng](http://www.andrewng.org/)
 
 ## Introduction
 
-This repo contains all my code base for the couerse. [Neural Networks and Deep Learning on Coursera](https://www.coursera.org/learn/neural-networks-deep-learning/home/).
+This repo contains all my code base for the course under the Deep Learning Specialization. [Neural Networks and Deep Learning on Coursera](https://www.coursera.org/learn/neural-networks-deep-learning/home/).
 
 ## Programming Assignments
 
