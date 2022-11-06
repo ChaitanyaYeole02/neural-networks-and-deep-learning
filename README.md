@@ -11,11 +11,11 @@ This repo contains all my code base for the course under the Deep Learning Speci
 ### Course: Neural Networks and Deep Learning
 
 ##### Week 1
- - [Graded Quiz: Introduction to Deep Learning]()
+ - [Graded Quiz: Introduction to deep learning]()
 
 ##### Week 2 
  - [Graded Quiz: Neural Networks Basics]()
- - [Practice Programming Assignment: Python Basics with Numpy](https://github.com/chaitanya-yeole/neural-networks-and-deep-learning/blob/main/W2/Python_Basics_With_Numpy_v3a.ipynb)
+ - [Practice Programming Assignment: Python Basics with numpy](https://github.com/chaitanya-yeole/neural-networks-and-deep-learning/blob/main/W2/Python_Basics_With_Numpy_v3a.ipynb)
  - [Programming Assignment: Logistic Regression with a Neural Network mindset](https://github.com/chaitanya-yeole/neural-networks-and-deep-learning/blob/main/W2/Logistic%20Regression%20with%20a%20Neural%20Network%20mindset.ipynb) 
 
 ##### Week 3
