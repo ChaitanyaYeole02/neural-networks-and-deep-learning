@@ -24,5 +24,5 @@ This repo contains all my code base for the course under the [Deep Learning Spec
 
 ##### Week 4
   - [Graded Quiz: Key concepts on Deep Neural Networks](https://github.com/chaitanya-yeole/neural-networks-and-deep-learning/blob/main/W4/Graded%20Quiz%20-%20Key%20concepts%20on%20Deep%20Neural%20Networks.pdf)
-  - [Programming Assignment 1: Building your Deep Neural Network: Step by Step](https://github.com/chaitanya-yeole/neural-networks-and-deep-learning/blob/main/W4/Building%20your%20Deep%20Neural%20Network%20-%20Step%20by%20Step.ipynb)
-  - [Programming Assignment 2: Deep Neural Network Application](https://github.com/chaitanya-yeole/neural-networks-and-deep-learning/blob/main/W4/Deep%20Neural%20Network%20-%20Application.ipynb)
+  - [Programming Assignment 1: Building your Deep Neural Network - Step by Step](https://github.com/chaitanya-yeole/neural-networks-and-deep-learning/blob/main/W4/Building%20your%20Deep%20Neural%20Network%20-%20Step%20by%20Step.ipynb)
+  - [Programming Assignment 2: Deep Neural Network - Application](https://github.com/chaitanya-yeole/neural-networks-and-deep-learning/blob/main/W4/Deep%20Neural%20Network%20-%20Application.ipynb)
